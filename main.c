@@ -1,7 +1,8 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
-	big();
+	big2();
+	printf("\n");
 	fact();
+	printf("\n");
 }
